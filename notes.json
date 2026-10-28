@@ -1,0 +1,12 @@
+{
+  "kind": "security",
+  "severity": "minor",
+  "title": "Frost 1.1.2 — Sécurité et fonctionnalités",
+  "notes": "Un mode simple pour les personnes âgées et les débutants, et un grand renforcement de la sécurité.",
+  "highlights": [
+    "Mode simple : gros boutons, une seule barre de recherche, accueil en grandes tuiles",
+    "Mots de passe mieux protégés : remplis uniquement sur leur propre site",
+    "Téléchargements vérifiés par macOS, mises à jour signées par Givre Studio",
+    "Les Frostbots demandent votre accord avant d'acheter, payer, envoyer ou supprimer"
+  ]
+}

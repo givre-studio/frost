@@ -1,0 +1,15 @@
+{
+  "version": "1.1.2",
+  "url": "https://raw.githubusercontent.com/givre-studio/frost/main/Frost.zip",
+  "sha256": "c9573b2bede2890afdf97ffe61f657cc4dadb8ff1bfa6499f769d289c5f5822e",
+  "kind": "security",
+  "severity": "minor",
+  "title": "Frost 1.1.2 — Sécurité et fonctionnalités",
+  "notes": "Un mode simple pour les personnes âgées et les débutants, et un grand renforcement de la sécurité.",
+  "highlights": [
+    "Mode simple : gros boutons, une seule barre de recherche, accueil en grandes tuiles",
+    "Mots de passe mieux protégés : remplis uniquement sur leur propre site",
+    "Téléchargements vérifiés par macOS, mises à jour signées par Givre Studio",
+    "Les Frostbots demandent votre accord avant d'acheter, payer, envoyer ou supprimer"
+  ]
+}
