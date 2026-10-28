@@ -1,18 +1,8 @@
-FROST 1.1.2 — mise à jour
+FROST 1.1.3 — version candidate
 
-Dans ce dossier, 3 fichiers comptent :
-  • Frost.zip    → la mise à jour (téléchargée automatiquement par les Frost installés)
-  • update.json  → la fiche que les Frost installés lisent (version, notes, empreinte)
-  • Frost.dmg    → pour les nouveaux utilisateurs (le bouton « Télécharger » de ton site)
+Glisse ces 3 fichiers dans ton dépôt GitHub (Add file › Upload files › Commit changes) :
+  • Frost.zip    → la mise à jour
+  • update.json  → la fiche lue par les Frost installés
+  • Frost.dmg    → pour les nouveaux utilisateurs
 
-Ce qu'il faut faire :
-  1. Va sur ton dépôt GitHub givre-studio/frost.
-  2. « Add file » › « Upload files ».
-  3. Glisse Frost.zip, update.json et Frost.dmg (ils remplacent les anciens).
-  4. « Commit changes ».
-
-C'est tout. Dans les 6 heures, chaque Frost installé voit la mise à jour, la télécharge,
-vérifie son empreinte et sa signature, et l'installe tout seul à la fermeture.
-
-Lien de téléchargement pour ton site (toujours la dernière version) :
-  https://github.com/givre-studio/frost/raw/main/Frost.dmg
+Ils remplacent ceux de la 1.1.2. Tous les Frost installés se mettent à jour dans les 6 heures.

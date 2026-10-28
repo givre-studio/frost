@@ -1,12 +1,12 @@
 {
   "kind": "security",
   "severity": "minor",
-  "title": "Frost 1.1.2 — Sécurité et fonctionnalités",
-  "notes": "Un mode simple pour les personnes âgées et les débutants, et un grand renforcement de la sécurité.",
+  "title": "Frost 1.1.3 — Version candidate",
+  "notes": "La version candidate à la publication : profils, extensions Chrome, IA en ligne avec votre clé, bouton Accueil, Frost TV repensé et une nouvelle ouverture.",
   "highlights": [
-    "Mode simple : gros boutons, une seule barre de recherche, accueil en grandes tuiles",
-    "Mots de passe mieux protégés : remplis uniquement sur leur propre site",
-    "Téléchargements vérifiés par macOS, mises à jour signées par Givre Studio",
-    "Les Frostbots demandent votre accord avant d'acheter, payer, envoyer ou supprimer"
+    "Frosty Profiles : chacun son Frost (onglets, cookies, mots de passe séparés)",
+    "Extensions Chrome : ajoutez-les directement depuis le Chrome Web Store",
+    "Votre propre clé API : GPT, Claude, Gemini, Mistral ou OpenRouter pour les Frostbots",
+    "Bouton Accueil, Frost TV repensé, nouvelle animation d'ouverture et correctifs de sécurité"
   ]
 }
