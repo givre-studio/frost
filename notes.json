@@ -1,0 +1,10 @@
+{
+  "kind": "feature",
+  "severity": "minor",
+  "title": "Equator 1.1.3",
+  "notes": "Deux retouches dans la Bibliothèque.",
+  "highlights": [
+    "Logbook : la petite croix retire l'onglet, elle ne le rouvre plus.",
+    "Historique : « Tout effacer… » supprime d'un coup l'historique, les cookies, le cache et le Logbook."
+  ]
+}
