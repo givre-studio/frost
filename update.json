@@ -1,0 +1,16 @@
+{
+  "version": "1.1.4",
+  "url": "https://raw.githubusercontent.com/givre-studio/frost/main/Frost.zip",
+  "sha256": "9d345ec1a974cc42c201628d2705bb3ea8436fafcb21b547c5a8fb17d8ce11c9",
+  "kind": "feature",
+  "severity": "minor",
+  "title": "Frost 1.1.4 — Nouvelle identité",
+  "notes": "Frost a une vraie identité : l'étoile de givre, une typographie unique, de nouvelles animations d'ouverture et de Frost TV, des espaces avec nom et emoji, et un DMG tout neuf.",
+  "highlights": [
+    "Nouvelle icône : l'étoile de givre, et une typographie unique dans toute l'app",
+    "Nouvelle ouverture et nouvelle animation de Frost TV",
+    "Espaces : un nom, un emoji et une couleur de verre pour chacun",
+    "Signaler un problème en un clic (vous relisez l'e-mail avant l'envoi)",
+    "La télécommande iPhone et iPad se désactive dans Réglages › Frost TV"
+  ]
+}
