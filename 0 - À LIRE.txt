@@ -1,8 +1,0 @@
-FROST 1.1.3 — version candidate
-
-Glisse ces 3 fichiers dans ton dépôt GitHub (Add file › Upload files › Commit changes) :
-  • Frost.zip    → la mise à jour
-  • update.json  → la fiche lue par les Frost installés
-  • Frost.dmg    → pour les nouveaux utilisateurs
-
-Ils remplacent ceux de la 1.1.2. Tous les Frost installés se mettent à jour dans les 6 heures.
